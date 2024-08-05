@@ -7,7 +7,7 @@ const Suggestions = ({ userId }) => {
     const [recommendation, setRecommendation] = useState('');
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState('');
-    const [url, setUrl] = useState('http://localhost:4000'); // Adjust based on your environment
+    const [url, setUrl] = useState('https://food-delivery-app-backend-x79b.onrender.com'); // Adjust based on your environment
 
     useEffect(() => {
         const fetchPreviousOrders = async () => {
