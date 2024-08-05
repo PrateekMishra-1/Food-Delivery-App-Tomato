@@ -1,6 +1,6 @@
 Live link -> https://food-delivery-app-frontend-bt714z1w8-prateekmishra-1s-projects.vercel.app
 
-Live Admin Panel link -> https://food-delivery-app-frontend-bt714z1w8-prateekmishra-1s-projects.vercel.app
+Live Admin Panel link -> https://food-delivery-app-admin-b264.onrender.com
 
 # Getting Started with Create React App
 
