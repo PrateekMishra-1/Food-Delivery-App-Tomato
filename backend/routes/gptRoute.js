@@ -1,6 +1,6 @@
 import express from 'express';
 import { GoogleGenerativeAI } from '@google/generative-ai';
-import Order from '../models/Order.js';
+import Order from '../models/order.js';
 import 'dotenv/config';
 
 const gptRoute = express.Router();
